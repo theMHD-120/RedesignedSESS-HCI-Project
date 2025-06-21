@@ -1,2 +1,2 @@
-# Remaked-SESS
+# Redesigned-SESS
 Redesign of SESS
