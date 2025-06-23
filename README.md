@@ -1,6 +1,7 @@
 # Redesigned-SESS
 Redesign of SESS (Shiraz university Education Support Subsystem) using Figma. <br />
-Figma is a cloud-based design and prototyping tool primarily used for creating user interfaces (UI) and user experiences (UX) for websites, apps, and other digital products [official website](https://www.figma.com/).
+Figma is a cloud-based design and prototyping tool primarily used for creating user interfaces (UI) and user experiences (UX) for websites, apps, and other digital products. <br />
+See the [official website](https://www.figma.com/).
 
 <br /> <br />
 Designed pages:
