@@ -3,7 +3,7 @@ Redesign of SESS (Shiraz university Education Support Subsystem) using
 
 <br /> <br />
 Designed pages:
->Login page
+.Login page
 
 <br /> <br />
 Link to preview:
