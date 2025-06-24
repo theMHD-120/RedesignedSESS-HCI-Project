@@ -10,9 +10,9 @@ See the [official website](https://www.figma.com/).
 Designed web pages (For more information, read the documentation file):
 - Login page
 - Items page
-- Main page
+- Main page (Other cases in items page (marked in gray))
 - Educational section
-- Messages
+- Messages section
 
 
 Link to preview:
