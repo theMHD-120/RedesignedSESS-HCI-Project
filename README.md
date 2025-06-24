@@ -4,7 +4,7 @@ Figma is a cloud-based design and prototyping tool primarily used for creating u
 See the [official website](https://www.figma.com/).
 
 
-Designed web pages (:
+Designed web pages (For more information, read the documentation file):
 - Login page
 - Items page
 - Main page
