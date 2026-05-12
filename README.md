@@ -1,6 +1,6 @@
 ![SESS Logo](https://github.com/theMHD-120/RedesignedSESS-HCI-Project/blob/3d679dd827bc7009517dc70d84aaef5ce1b9a33d/images/SESS%20Logo.jpg)
 
-### in the name of ALLAH
+### in the name of Allah
 # Redesigned-SESS
 >>> Human & Computer Interactions final project - Winter 2025
 
