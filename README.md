@@ -2,7 +2,7 @@
 
 ### in the name of Allah
 # Redesigned-SESS
->>> Human & Computer Interactions final project - Winter 2025
+>>> Human & Computer Interactions - Winter 2025
 
 Redesign of SESS (Shiraz university Education Support Subsystem) using Figma. <br />
 Figma is a cloud-based design and prototyping tool primarily used for creating user interfaces (UI) and user experiences (UX) for websites, apps, and other digital products. <br />
